@@ -1,6 +1,6 @@
-{
-  "yes.wav": "yes",
-  "no.wav": "no",
-  "up.wav": "up",
-  "down.wav": "down"
+﻿{
+    "yes.wav":  "no",
+    "no.wav":  "no",
+    "up.wav":  "up",
+    "down.wav":  "down"
 }
